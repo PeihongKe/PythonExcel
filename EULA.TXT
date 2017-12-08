@@ -1,0 +1,77 @@
+Enthought PyXLL Subscription License Agreement For EVALUATION USE
+
+This Enthought PyXLL Subscription License Agreement for Evaluation Use (the "Agreement") is between Enthought, Inc., a Delaware corporation ("Enthought"), and the evaluation use licensee subscriber who accepts the terms of this Agreement (the "NCU Customer" or "You").  The effective date of this Agreement (the "Effective Date") is the earlier of the date You accept this Agreement or the first date You use the Software.  Please read this Agreement carefully before using the Software.  By clicking to accept these terms, installing or using the Software, You signify your assent to and acceptance of the terms of this Agreement.  If You do not accept the terms of this Agreement, then You must not use the Software.
+
+
+1.	Definitions.  The following terms, when capitalized, are defined as follows:
+
+A.	"Permitted Use" shall mean NCU Customer's use of the Software in accordance with all terms and conditions of this Agreement solely for evaluation purposes, and explicitly excludes any use of the Software for commercial purposes including commercial research purposes.
+
+B.	 "Term" shall mean the period from the Effective Date until it is terminated by either party as provided for herein. 
+
+C.	"Software" shall mean the version of the proprietary PyXLL software and related intellectual property, including any third party software, whether propriety or open source, that is included with PyXLL and provided to You in binary form under this Agreement. 
+
+D.	"Support" shall mean the maintenance and support services provided pursuant to this Agreement as described in Section 3 below. 
+
+F.	"User" shall mean a single individual or single entity authorized per the terms, conditions and restrictions herein, to use the Software.
+
+Other capitalized terms used in this Agreement are defined in the context in which they are used and shall have the meanings indicated by such use.
+
+
+2.	PyXLL Evaluation Use Software License
+
+Commencing on the Effective Date, and subject to the terms and conditions of this Agreement, Enthought grants You a personal, non-transferable, non-sublicensable, limited, non-exclusive, revocable license to use the Software solely for the Permitted Use.  The specific use rights granted to You are as follows:
+
+ A. "NCU User License."  Each NCU User License grants You the right for You to install and use one copy of the Software in accordance with its documentation and solely for the Permitted Use.  You may also make one copy of the Software for normal computer backup and archival purposes.  All copies must contain all title, trademark, and copyright information and restricted rights notices as are provided in the Software.   
+
+B.	Restrictions. Except as expressly permitted herein, You may not: (a) modify, disassemble, de-compile, reverse engineer, create derivative works or otherwise attempt to determine the source code or protocols from the object code of the Software or knowingly permit or encourage any third party to do so, (b) use the Software in any manner to provide service bureau, time-sharing or other computer services to third parties, (c) use the Software, or allow the transfer, transmission, export, or re-export of the Software or portion thereof in violation of any export control laws or regulations administered by any government agency, (d) use the Software except as expressly set forth in Section 2A, (e) duplicate, resell, distribute or otherwise transfer the Software to third parties, or (f) remove or obscure any notices contained with the Software.
+
+C. Verification. You are responsible for implementing reasonable means to monitor compliance with this Agreement.  Enthought reserves the right to audit Your use of the Software at Enthought's own expense.  You acknowledge that any unauthorized use of the Software or use of the Software for any purpose other than the Permitted Use by you is damaging to Enthought.  You are responsible for any damages arising out of or in connection with any such unauthorized or non-Permitted Use by You, including but not limited to (i) payment of fees for the equivalent commercial use license for the period of unauthorized or non-Permitted Use plus a ten percent (10%) premium, (ii) reimbursement by You for the cost of the audit, and (iii) all other applicable rights remedies.
+
+
+3.	Support
+
+No maintenance or support services are provided to You under this Agreement.  To receive phone or email-based support You must upgrade to a paid, commercial use license.
+
+
+4.	Term and Termination
+
+The Term of this Agreement shall extend from the Effective Date until it is terminated by either party as provided for herein.  Enthought may terminate this Agreement at any time upon written notice to You. You may terminate this Agreement at any time by providing written notice to Enthought and by ceasing to use the Software.  
+
+Sections 2(B), and 5-8 shall survive any termination or expiration of this Agreement. 
+
+
+5.	Intellectual Property, Ownership and Marks
+
+Enthought and its licensors reserves all rights in the Software and all related intellectual property rights not expressly granted to You in this Agreement. No right or license, express or implied, is granted in this Agreement for the use of any Enthought or third party software trade names, service marks or trademarks. Enthought or its licensors shall also own and retain ownership of all right, title, and interest in and to any ideas, suggestions, or feedback relating to the Software and documentation ("Feedback"), all intellectual property rights embodied within the foregoing.  You hereby irrevocably assign and agrees to assign all of its right, title, and interest in and to any Feedback to Enthought.
+
+
+6.	DISCLAIMER AND LIMITATIONS OF LIABILITY
+
+THE SOFWARE IS PROVIDED ON AN "AS-IS" BASIS. ENTHOUGHT MAKES AND CUSTOMER RECEIVES NO WARRANTY, EXPRESSED OR IMPLIED, AND ALL WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE EXPRESSLY EXCLUDED. 
+ENTHOUGHT SHALL HAVE NO LIABILITY WITH RESPECT TO ITS OBLIGATIONS UNDER THIS AGREEMENT FOR CONSEQUENTIAL, EXEMPLARY OR INCIDENTAL DAMAGES EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
+You acknowledge that Enthought has provided the Software to You at no charge and has entered into this Agreement in reliance upon the limitations of liability and the disclaimers of warranties and damages set forth herein, and that the same form an essential basis of the bargain between the parties.  The parties agree that the limitations of liability and disclaimers set forth in this Agreement shall apply notwithstanding any failure of essential purpose of any limited remedy provided herein.
+
+
+7.  Indemnity
+
+In the event you distribute the Software in violation of this Agreement, You agree to indemnify, hold harmless and defend Enthought and its suppliers for and against any claims or lawsuits, including attorney's fees that arise or result from the use or distribution of the Software in violation of this Agreement.
+
+
+8.  General
+
+A.	Governing Law and Jurisdiction.  This Agreement shall be governed by and construed in accordance with the laws of the State of Texas without giving effect to any body of law or precedent relating to conflicts of law, and all disputes arising under this Agreement shall be brought exclusively in a federal or state court located in Travis County, Texas. You consent to the personal jurisdiction of such courts, and hereby waive any objection to the venue of such courts.
+
+B.	Assignment.  You shall not assign any of its rights hereunder without the prior written consent of Enthought. Any attempt to do so (even by operation of law) shall be void.
+
+C.	Severability.  In the event that any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions of this Agreement will remain in full force and effect.
+
+D.  U.S. Government Restricted Rights.  In the event Customer is an agency, department, or other entity of the United States Government ("Government"), the use, duplication, reproduction, release, modification, disclosure, or transfer of the Software, or any related documentation of any kind, including technical data or manuals, is restricted in accordance with Federal Acquisition Regulation 12.212 (as amended or supplanted) for civilian agencies and Defense Federal Acquisition Regulation Supplement 227.7202 (as amended or supplanted) for military agencies.  The Software is commercial computer software and the related documentation is commercial computer software documentation.  The use of the Software and related documentation is further restricted in accordance with the terms of this Agreement, or any modification hereto.  The Contractor / Manufacturer is Enthought, Inc., 515 Congress Avenue, Suite 2100, Austin, Texas, U.S.A. 78701.
+	
+E.  Entire Agreement.  Each party acknowledges that it has read and understands this Agreement and agrees to be bound by its terms.  This Agreement constitutes the complete agreement between the parties and supersedes all previous agreements or representations, written or oral, with respect to the Software specified herein.  This Agreement may not be modified or amended except in writing signed by a duly authorized representative of each party, or by a similar click-to-accept mechanism accepted by You.
+
+F.	Force Majeure.  Dates or times by which Enthought is required to make performance under this Agreement shall be postponed automatically to the extent that Enthought is prevented from meeting them by causes beyond its reasonable control.
+
+G.	Compliance.  You agree and hereby authorize Enthought's access to Software license files used to validate usage of the Software for purposes of verifying Your compliance with this Agreement during the Term.
+
+H.  Waiver.  The waiver or failure of Enthought to exercise in any respect any right provided for in this Agreement shall not be deemed a waiver of any further right hereunder.

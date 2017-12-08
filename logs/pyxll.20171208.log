@@ -1,0 +1,54 @@
+2017-12-08 21:34:52,123 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          3.3.1
+  Buildtime        2017-10-20 10:19
+  Python version   3.4
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2017-12-08 21:34:52,165 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          3.3.1
+  Buildtime        2017-10-20 10:19
+  Python version   3.4
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2017-12-08 21:34:53,503 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          3.3.1
+  Buildtime        2017-10-20 10:19
+  Python version   3.4
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2017-12-08 21:34:54,099 - WARNING : *** win32com.client could not be imported           ***
+2017-12-08 21:34:54,100 - WARNING : *** some of the objectcache examples will not work  ***
+2017-12-08 21:34:54,100 - WARNING : *** to fix this, install the pywin32 extensions     ***
+2017-12-08 21:34:54,145 - WARNING : pydevd failed to import - eclipse debugging won't work
+2017-12-08 21:34:54,145 - WARNING : Check the eclipse path in C:\Users\Kolapig\Downloads\pyxll-3.3.1-x86-py34\examples\tools\eclipse_debug.py
+2017-12-08 21:34:54,186 - WARNING : *** win32api could not be imported.                ***
+2017-12-08 21:34:54,186 - WARNING : *** Some of the ribbon examples will not work.     ***
+2017-12-08 21:34:54,186 - WARNING : *** to fix this, install the pywin32 extensions.   ***
+2017-12-08 21:34:54,263 - INFO : This product is licensed to <evaluation>
+2017-12-08 21:34:54,263 - INFO : The license will expire on 2018-01-07 (30 days left)
+2017-12-08 21:34:54,263 - INFO : callbacks.license_notifier: This copy of PyXLL is licensed to <evaluation>
+2017-12-08 21:34:54,263 - INFO : callbacks.license_notifier: 30 days left before the license expires (2018-01-07)
+2017-12-08 21:34:57,224 - ERROR : Error calling on open callback 'objectcache._startup': No module named 'pythoncom'
+2017-12-08 21:34:57,225 - ERROR : Traceback (most recent call last):
+2017-12-08 21:34:57,225 - ERROR :   File "pyxll", line 783, in _post_open
+2017-12-08 21:34:57,226 - ERROR :   File "C:\Users\Kolapig\Downloads\pyxll-3.3.1-x86-py34\examples\objectcache.py", line 457, in _startup
+2017-12-08 21:34:57,226 - ERROR :     _setup_event_handler(_global_cache)
+2017-12-08 21:34:57,226 - ERROR :   File "C:\Users\Kolapig\Downloads\pyxll-3.3.1-x86-py34\examples\objectcache.py", line 450, in _setup_event_handler
+2017-12-08 21:34:57,226 - ERROR :     xl = xl_app(com_package="win32com")
+2017-12-08 21:34:57,227 - ERROR :   File "pyxll", line 2984, in __import_hook
+2017-12-08 21:34:57,227 - ERROR : ImportError: No module named 'pythoncom'
