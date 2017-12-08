@@ -39,7 +39,17 @@ def basic_pyxll_function_1(x, y, z):
 #
 
 @xl_func("int x, float y, bool z: float")
-def basic_pyxll_function_2(x, y, z):
+def basic_pyxll_function_22(x, y, z):
+    """if z return x, else return y"""
+    if z:
+        # we're returning an integer, but the signature
+        # says we're returning a float.
+        # PyXLL will convert the integer to a float for us.
+        return x
+    return y
+
+@xl_func("int x, float y, bool z: float")
+def xxxxxx(x, y, z):
     """if z return x, else return y"""
     if z:
         # we're returning an integer, but the signature

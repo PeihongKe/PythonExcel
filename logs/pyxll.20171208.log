@@ -52,3 +52,78 @@
 2017-12-08 21:34:57,226 - ERROR :     xl = xl_app(com_package="win32com")
 2017-12-08 21:34:57,227 - ERROR :   File "pyxll", line 2984, in __import_hook
 2017-12-08 21:34:57,227 - ERROR : ImportError: No module named 'pythoncom'
+2017-12-08 23:15:50,037 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          3.3.1
+  Buildtime        2017-10-20 10:19
+  Python version   3.4
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2017-12-08 23:15:53,536 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          3.3.1
+  Buildtime        2017-10-20 10:19
+  Python version   3.4
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2017-12-08 23:15:53,582 - WARNING : *** win32api could not be imported.                ***
+2017-12-08 23:15:53,582 - WARNING : *** Some of the ribbon examples will not work.     ***
+2017-12-08 23:15:53,582 - WARNING : *** to fix this, install the pywin32 extensions.   ***
+2017-12-08 23:15:53,585 - INFO : This product is licensed to <evaluation>
+2017-12-08 23:15:53,586 - INFO : The license will expire on 2018-01-07 (30 days left)
+2017-12-08 23:17:09,538 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          3.3.1
+  Buildtime        2017-10-20 10:19
+  Python version   3.4
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2017-12-08 23:17:09,555 - WARNING : *** win32api could not be imported.                ***
+2017-12-08 23:17:09,555 - WARNING : *** Some of the ribbon examples will not work.     ***
+2017-12-08 23:17:09,556 - WARNING : *** to fix this, install the pywin32 extensions.   ***
+2017-12-08 23:17:09,564 - INFO : This product is licensed to <evaluation>
+2017-12-08 23:17:09,564 - INFO : The license will expire on 2018-01-07 (30 days left)
+2017-12-08 23:17:10,449 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          3.3.1
+  Buildtime        2017-10-20 10:19
+  Python version   3.4
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2017-12-08 23:17:10,459 - WARNING : *** win32api could not be imported.                ***
+2017-12-08 23:17:10,459 - WARNING : *** Some of the ribbon examples will not work.     ***
+2017-12-08 23:17:10,459 - WARNING : *** to fix this, install the pywin32 extensions.   ***
+2017-12-08 23:17:10,468 - INFO : This product is licensed to <evaluation>
+2017-12-08 23:17:10,468 - INFO : The license will expire on 2018-01-07 (30 days left)
+2017-12-08 23:17:10,921 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          3.3.1
+  Buildtime        2017-10-20 10:19
+  Python version   3.4
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2017-12-08 23:17:10,930 - WARNING : *** win32api could not be imported.                ***
+2017-12-08 23:17:10,931 - WARNING : *** Some of the ribbon examples will not work.     ***
+2017-12-08 23:17:10,931 - WARNING : *** to fix this, install the pywin32 extensions.   ***
+2017-12-08 23:17:10,939 - INFO : This product is licensed to <evaluation>
+2017-12-08 23:17:10,940 - INFO : The license will expire on 2018-01-07 (30 days left)
